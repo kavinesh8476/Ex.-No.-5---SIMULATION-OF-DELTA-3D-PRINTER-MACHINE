@@ -24,15 +24,55 @@
 ### 2.	Move the z2-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z2-axis assembly.
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
-## OUTPUT:
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
-
 ## Output:
+### Assembly of Delta 3D Printer:
+![image](https://github.com/kavinesh8476/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118466561/e4b593e8-1ad9-43b1-a2b6-47b4aecf8ffc)
+#### Base :
+The foundation of the printer, typically made of sturdy materials such as metal or plastic.
 
-### Name:
-### Register Number:
+#### Holder :
+A part that holds the linear rails and/or motor in place
+
+#### Rod :
+vertical rails that the printer's effector (the part that moves around to print) travels up and down.
+
+#### Top cover :
+A cover that goes over the top of the printer to protect it from dust and debris.
+
+#### Top cover frame :
+A frame that supports the top cover.
+
+#### Linear rail :
+A type of guide rail that provides smooth, precise movement for the printer's effector.
+
+#### Motor :
+A motor that provides the movement for the printer's effector, often using belts or pulleys to transfer the motion
+
+#### Bed :
+The platform on which the printer creates the printed object.
+
+#### Slide with connector :
+A connector that attaches the bed to the printer's frame.
+
+#### Connecting Rods :
+Rods that connect the printer's effector to the bed, allowing it to move up and down.
+
+#### Extruder :
+The part of the printer that melts and deposits the filament used to create the printed object.
+
+#### Pins :
+Small pins used to secure various parts of the printer together.
+
+#### Motor with gear :
+A motor that has a gear attached to it, often used to drive the printer's linear rails
+
+#### LCD :
+A display screen that allows the user to interact with the printer, typically used to select and control print settings.
+### Playing with the axes:
+![image](https://github.com/kavinesh8476/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118466561/62adfc3f-a730-445e-96b2-b3868c9a67ee)
+
+### Name:KAVINESH M
+### Register Number:212222230064
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
